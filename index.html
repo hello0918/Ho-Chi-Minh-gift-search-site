@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ホーチミンのお土産パーフェクトガイド</title>
+<style>
+:root{--bg-color:#fff;--main-pink:#ffb7c5;--light-pink:#fff0f3;--main-green:#a4c639;--text-color:#333;--border-color:#eee}
+body{font-family:'Helvetica Neue',Arial,'Hiragino Kaku Gothic ProN','Hiragino Sans',Meiryo,sans-serif;background:var(--bg-color);color:var(--text-color);margin:0}
+header{background:var(--main-pink);color:#fff;text-align:center;padding:20px 10px;box-shadow:0 2px 5px rgba(0,0,0,.1);position:sticky;top:0;z-index:100}
+h1{margin:0;font-size:24px;letter-spacing:1px}
+.container{display:flex;max-width:1200px;margin:20px auto;padding:0 10px;gap:20px}
+.sidebar{width:300px;flex-shrink:0;background:var(--light-pink);padding:20px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.05);height:fit-content}
+.filter-group{margin-bottom:20px;border-bottom:1px solid var(--main-pink);padding-bottom:15px}
+.filter-group:last-child{border-bottom:none}
+.filter-title{font-weight:bold;color:var(--main-green);margin-bottom:10px;display:flex;justify-content:space-between;align-items:center;cursor:pointer}
+.filter-content{display:flex;flex-direction:column;gap:8px}
+.filter-content label{display:flex;align-items:center;font-size:14px;cursor:pointer}
+.filter-content input[type=checkbox]{margin-right:8px;accent-color:var(--main-green)}
+select.sort-select{width:100%;padding:8px;border:1px solid var(--border-color);border-radius:5px;font-size:14px;color:var(--text-color)}
+.switch-wrapper{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+.main-content{flex-grow:1}
+.results-info{margin-bottom:15px;font-weight:bold;color:var(--main-green)}
+.product-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px}
+.product-card{border:1px solid var(--border-color);border-radius:10px;overflow:hidden;background:#fff;transition:transform .2s,box-shadow .2s;display:flex;flex-direction:column}
+.product-card:hover{transform:translateY(-5px);box-shadow:0 5px 15px rgba(0,0,0,.1)}
+.product-image,.image-placeholder{width:100%;height:180px;object-fit:cover;border-bottom:3px solid var(--main-green)}
+.image-placeholder{display:flex;align-items:center;justify-content:center;background:var(--light-pink);color:#777;font-size:14px}
+.product-info{padding:15px;flex-grow:1;display:flex;flex-direction:column}
+.product-title{font-size:18px;font-weight:bold;margin:0 0 10px;color:var(--main-pink)}
+.product-price{font-size:16px;font-weight:bold;margin-bottom:5px}
+.product-price-vnd{font-size:12px;color:#888;margin-bottom:10px}
+.product-meta{font-size:12px;color:#555;margin-bottom:5px}
+.tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto;padding-top:10px}
+.tag{background:var(--light-pink);color:var(--text-color);padding:3px 8px;border-radius:12px;font-size:11px}
+.tag.rare{background:#ffd700;color:#333;font-weight:bold}.tag.recommend{background:var(--main-green);color:#fff}
+.stars{color:#ffd700;font-size:14px}
+@media(max-width:768px){.container{flex-direction:column}.sidebar{width:auto}}
+</style>
+</head>
+<body>
+<header><h1>🌸 ホーチミンのお土産パーフェクトガイド 🌿</h1></header>
+
+<div class="container">
+<aside class="sidebar">
+<div class="filter-group">
+<div class="filter-title">並べ替え</div>
+<select id="sort-select" class="sort-select">
+<option value="recommend">おすすめ順</option>
+<option value="rare-desc">レア度が高い順</option>
+<option value="rare-asc">レア度が低い順</option>
+<option value="price-asc">価格が低い順</option>
+<option value="price-desc">価格が高い順</option>
+<option value="pop-desc">人気度が高い順</option>
+<option value="pop-asc">人気度が低い順</option>
+</select>
+</div>
+
+<div class="filter-group">
+<div class="switch-wrapper"><strong>スタッフおすすめのみ</strong><input type="checkbox" id="filter-recommend"></div>
+<div class="switch-wrapper"><strong>レア商品のみ</strong><input type="checkbox" id="filter-rare"></div>
+</div>
+
+<div class="filter-group">
+<div class="filter-title">予算 ▼</div>
+<div class="filter-content" id="filter-budget">
+<label><input type="checkbox" value="500under" class="chk-budget">500円以下</label>
+<label><input type="checkbox" value="500-1000" class="chk-budget">500～1000円</label>
+<label><input type="checkbox" value="1000-3000" class="chk-budget">1000～3000円</label>
+<label><input type="checkbox" value="3000-5000" class="chk-budget">3000～5000円</label>
+<label><input type="checkbox" value="5000-10000" class="chk-budget">5000～10000円</label>
+<label><input type="checkbox" value="10000over" class="chk-budget">10000円以上</label>
+</div>
+</div>
+
+<div class="filter-group" id="target-group">
+<div class="filter-title">渡したい相手 ▼</div><div class="filter-content" id="filter-target"></div>
+</div>
+
+<div class="filter-group">
+<div class="filter-title">購入できるエリア ▼</div><div class="filter-content" id="filter-area"></div>
+</div>
+
+<div class="filter-group">
+<div class="filter-title">商品のジャンル ▼</div><div class="filter-content" id="filter-genre"></div>
+</div>
+
+<div class="filter-group">
+<div class="filter-title">人気度（レア度☆） ▼</div>
+<div class="filter-content">
+<label><input type="checkbox" value="3" class="chk-pop">☆☆☆ (超レア/大人気)</label>
+<label><input type="checkbox" value="2" class="chk-pop">☆☆ (そこそこ)</label>
+<label><input type="checkbox" value="1" class="chk-pop">☆ (どこでも買える)</label>
+</div>
+</div>
+</aside>
+
+<main class="main-content">
+<div class="results-info" id="results-count"></div>
+<div class="product-grid" id="product-list"></div>
+</main>
+</div>
+
+<script src="products.js"></script>
+<script>
+function uniqueValues(key){
+  const values=new Set();
+  products.forEach(p => (p[key]||[]).forEach(v => {if(v) values.add(v)}));
+  return [...values].sort((a,b)=>a.localeCompare(b,'ja'));
+}
+function buildCheckboxes(containerId,className,values){
+  const el=document.getElementById(containerId);
+  el.innerHTML='';
+  values.forEach(v=>{
+    const label=document.createElement('label');
+    const cb=document.createElement('input');
+    cb.type='checkbox'; cb.value=v; cb.className=className;
+    cb.addEventListener('change',renderProducts);
+    label.appendChild(cb); label.appendChild(document.createTextNode(v));
+    el.appendChild(label);
+  });
+}
+function setupFilters(){
+  buildCheckboxes('filter-area','chk-area',uniqueValues('area'));
+  buildCheckboxes('filter-genre','chk-genre',uniqueValues('genre'));
+  const targets=uniqueValues('target');
+  if(targets.length===0){
+    document.getElementById('target-group').style.display='none';
+  }else{
+    buildCheckboxes('filter-target','chk-target',targets);
+  }
+}
+function getCheckedValues(className){
+  return Array.from(document.querySelectorAll('.'+className+':checked')).map(cb=>cb.value);
+}
+function renderProducts(){
+  const sortValue=document.getElementById('sort-select').value;
+  const onlyRecommend=document.getElementById('filter-recommend').checked;
+  const onlyRare=document.getElementById('filter-rare').checked;
+  const checkedBudgets=getCheckedValues('chk-budget');
+  const checkedTargets=getCheckedValues('chk-target');
+  const checkedAreas=getCheckedValues('chk-area');
+  const checkedGenres=getCheckedValues('chk-genre');
+  const checkedPops=getCheckedValues('chk-pop').map(Number);
+
+  let filtered=products.filter(p=>{
+    if(onlyRecommend && !p.isRecommend) return false;
+    if(onlyRare && !p.isRare) return false;
+
+    if(checkedBudgets.length){
+      let ok=false;
+      if(checkedBudgets.includes('500under') && p.priceJpy<=500) ok=true;
+      if(checkedBudgets.includes('500-1000') && p.priceJpy>500 && p.priceJpy<=1000) ok=true;
+      if(checkedBudgets.includes('1000-3000') && p.priceJpy>1000 && p.priceJpy<=3000) ok=true;
+      if(checkedBudgets.includes('3000-5000') && p.priceJpy>3000 && p.priceJpy<=5000) ok=true;
+      if(checkedBudgets.includes('5000-10000') && p.priceJpy>5000 && p.priceJpy<=10000) ok=true;
+      if(checkedBudgets.includes('10000over') && p.priceJpy>10000) ok=true;
+      if(!ok) return false;
+    }
+    if(checkedTargets.length && !(p.target||[]).some(v=>checkedTargets.includes(v))) return false;
+    if(checkedAreas.length && !(p.area||[]).some(v=>checkedAreas.includes(v))) return false;
+    if(checkedGenres.length && !(p.genre||[]).some(v=>checkedGenres.includes(v))) return false;
+    if(checkedPops.length && !checkedPops.includes(p.popularity)) return false;
+    return true;
+  });
+
+  filtered.sort((a,b)=>{
+    switch(sortValue){
+      case 'recommend': return (a.isRecommend===b.isRecommend)?0:(a.isRecommend?-1:1);
+      case 'rare-desc': return (a.isRare===b.isRare)?0:(a.isRare?-1:1);
+      case 'rare-asc': return (a.isRare===b.isRare)?0:(a.isRare?1:-1);
+      case 'price-asc': return a.priceJpy-b.priceJpy;
+      case 'price-desc': return b.priceJpy-a.priceJpy;
+      case 'pop-desc': return b.popularity-a.popularity;
+      case 'pop-asc': return a.popularity-b.popularity;
+      default:return 0;
+    }
+  });
+
+  const list=document.getElementById('product-list');
+  list.innerHTML='';
+  document.getElementById('results-count').innerText=`全 ${filtered.length} 件を表示中`;
+
+  filtered.forEach(p=>{
+    const card=document.createElement('div');
+    card.className='product-card';
+    const imageHtml=p.img
+      ? `<img src="${p.img}" alt="${escapeHtml(p.name)}" class="product-image">`
+      : `<div class="image-placeholder">📷 画像準備中</div>`;
+    const stars=p.popularity ? '☆'.repeat(p.popularity) : '—';
+    card.innerHTML=`
+      ${imageHtml}
+      <div class="product-info">
+        <h3 class="product-title">${escapeHtml(p.name)}</h3>
+        <div class="product-price">${Math.round(p.priceJpy).toLocaleString()}円</div>
+        <div class="product-price-vnd">${escapeHtml(p.priceVnd)}</div>
+        <div class="product-meta">📍 エリア：${escapeHtml((p.area||[]).join(', ')||'—')}</div>
+        <div class="product-meta">🏠 店舗：${escapeHtml(p.shop||'—')}</div>
+        <div class="tags">
+          ${(p.genre||[]).map(g=>`<span class="tag">${escapeHtml(g)}</span>`).join('')}
+          ${p.isRare?'<span class="tag rare">レア✨</span>':''}
+          <span class="tag stars">人気度: ${stars}</span>
+          ${p.isRecommend?'<span class="tag recommend">スタッフおすすめ👍</span>':''}
+        </div>
+      </div>`;
+    list.appendChild(card);
+  });
+}
+function escapeHtml(s){
+  return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+document.addEventListener('DOMContentLoaded',()=>{
+  setupFilters();
+  document.querySelectorAll('input[type="checkbox"],select').forEach(el=>el.addEventListener('change',renderProducts));
+  renderProducts();
+});
+</script>
+</body>
+</html>
