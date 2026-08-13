@@ -266,7 +266,7 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -608,7 +608,7 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -734,7 +734,7 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1868,7 +1868,7 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2102,7 +2102,7 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2214,7 +2214,7 @@ const products = [
     "source": "雑誌るるぶ’２４"
   },
   {
-    "name": "ノーマル",
+    "name": "ノーマルかごバッグ",
     "area": [
       "チョロン"
     ],
@@ -2228,11 +2228,11 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ’２４"
   },
   {
-    "name": "メッシュ",
+    "name": "メッシュバッグ",
     "area": [
       "チョロン"
     ],
@@ -2246,7 +2246,7 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2390,7 +2390,7 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -3092,7 +3092,7 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3578,7 +3578,7 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "https://www.veltra.com/jp/yokka/article/shop-in-hochiminh/"
   },
   {
@@ -4068,7 +4068,7 @@ const products = [
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
-    "name": "thai binhの",
+    "name": "thai binh",
     "area": [
       "どこでも"
     ],
@@ -4388,7 +4388,7 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "7"
   },
   {
@@ -4406,7 +4406,7 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "7"
   },
   {
@@ -4424,7 +4424,7 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/kago-bag.jpg",
     "source": "7"
   },
   {
