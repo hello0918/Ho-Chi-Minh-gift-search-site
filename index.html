@@ -34,12 +34,15 @@ select.sort-select{width:100%;padding:8px;border:1px solid var(--border-color);b
 .tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto;padding-top:10px}
 .tag{background:var(--light-pink);color:var(--text-color);padding:3px 8px;border-radius:12px;font-size:11px}
 .tag.rare{background:#ffd700;color:#333;font-weight:bold}.tag.recommend{background:var(--main-green);color:#fff}
-.stars{color:#ffd700;font-size:14px}
+.stars{color:#ffd700;font-size:14px}.image-note{font-size:12px;margin-top:6px}
 @media(max-width:768px){.container{flex-direction:column}.sidebar{width:auto}}
 </style>
 </head>
 <body>
-<header><h1>🌸 ホーチミンのお土産パーフェクトガイド 🌿</h1></header>
+<header>
+<h1>🌸 ホーチミンのお土産パーフェクトガイド 🌿</h1>
+<div class="image-note">※画像はイメージです</div>
+</header>
 
 <div class="container">
 <aside class="sidebar">
@@ -192,7 +195,7 @@ function renderProducts(){
       ${imageHtml}
       <div class="product-info">
         <h3 class="product-title">${escapeHtml(p.name)}</h3>
-        <div class="product-price">${Math.round(p.priceJpy).toLocaleString()}円</div>
+        <div class="product-price">約${Math.round(p.priceJpy).toLocaleString()}円${p.priceSuffix||""}</div>
         <div class="product-price-vnd">${escapeHtml(p.priceVnd)}</div>
         <div class="product-meta">📍 エリア：${escapeHtml((p.area||[]).join(', ')||'—')}</div>
         <div class="product-meta">🏠 店舗：${escapeHtml(p.shop||'—')}</div>
