@@ -6,7 +6,7 @@ const products = [
     ],
     "shop": "Artbook（26 Le Loi",
     "priceVnd": "60,000VND",
-    "priceJpy": 363.64,
+    "priceJpy": 363.6363636363636,
     "target": [],
     "genre": [
       "雑貨"
@@ -14,7 +14,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -24,7 +25,7 @@ const products = [
     ],
     "shop": "Artbook（26 Le Loi",
     "priceVnd": "60,000VND",
-    "priceJpy": 363.64,
+    "priceJpy": 363.6363636363636,
     "target": [],
     "genre": [
       "雑貨"
@@ -32,7 +33,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/はがき.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -42,7 +44,7 @@ const products = [
     ],
     "shop": "Artbook（26 Le Loi",
     "priceVnd": "40,000VND",
-    "priceJpy": 242.42,
+    "priceJpy": 242.42424242424244,
     "target": [],
     "genre": [
       "雑貨"
@@ -50,7 +52,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/マグネット.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -60,7 +63,7 @@ const products = [
     ],
     "shop": "Artbook（26 Le Loi",
     "priceVnd": "155,000VND",
-    "priceJpy": 939.39,
+    "priceJpy": 939.3939393939394,
     "target": [],
     "genre": [
       "雑貨"
@@ -69,6 +72,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -78,7 +82,7 @@ const products = [
     ],
     "shop": "Saigon Boutique Handicrafts(58 Le Loi",
     "priceVnd": "190,000VND",
-    "priceJpy": 1151.52,
+    "priceJpy": 1151.5151515151515,
     "target": [],
     "genre": [
       "食器"
@@ -86,7 +90,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/カトラリー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -96,7 +101,7 @@ const products = [
     ],
     "shop": "Saigon Boutique Handicrafts(58 Le Loi",
     "priceVnd": "92,000VND",
-    "priceJpy": 557.58,
+    "priceJpy": 557.5757575757576,
     "target": [],
     "genre": [
       "食器"
@@ -104,7 +109,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -114,7 +120,7 @@ const products = [
     ],
     "shop": "Saigon Boutique Handicrafts(58 Le Loi",
     "priceVnd": "899,000VND",
-    "priceJpy": 5448.48,
+    "priceJpy": 5448.484848484848,
     "target": [],
     "genre": [
       "食器"
@@ -122,7 +128,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -132,7 +139,7 @@ const products = [
     ],
     "shop": "Saigon Boutique Handicrafts(58 Le Loi",
     "priceVnd": "50,000VND",
-    "priceJpy": 303.03,
+    "priceJpy": 303.030303030303,
     "target": [],
     "genre": [
       "食器"
@@ -140,7 +147,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -150,7 +158,7 @@ const products = [
     ],
     "shop": "Saigon Boutique Handicrafts(58 Le Loi",
     "priceVnd": "299,000VND",
-    "priceJpy": 1812.12,
+    "priceJpy": 1812.121212121212,
     "target": [],
     "genre": [
       "食器"
@@ -158,7 +166,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -168,7 +177,7 @@ const products = [
     ],
     "shop": "Saigon Boutique Handicrafts(58 Le Loi",
     "priceVnd": "625,000VND",
-    "priceJpy": 3787.88,
+    "priceJpy": 3787.878787878788,
     "target": [],
     "genre": [
       "雑貨"
@@ -176,7 +185,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -186,7 +196,7 @@ const products = [
     ],
     "shop": "Ohquao",
     "priceVnd": "250,000VND",
-    "priceJpy": 1515.15,
+    "priceJpy": 1515.1515151515152,
     "target": [],
     "genre": [
       "雑貨"
@@ -195,6 +205,7 @@ const products = [
     "popularity": 2,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -204,7 +215,7 @@ const products = [
     ],
     "shop": "Ohquao",
     "priceVnd": "60,000VND",
-    "priceJpy": 363.64,
+    "priceJpy": 363.6363636363636,
     "target": [],
     "genre": [
       "雑貨"
@@ -212,7 +223,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/はがき.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -222,7 +234,7 @@ const products = [
     ],
     "shop": "Ohquao",
     "priceVnd": "40,000VND",
-    "priceJpy": 242.42,
+    "priceJpy": 242.42424242424244,
     "target": [],
     "genre": [
       "雑貨"
@@ -230,7 +242,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/カレンダー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -240,7 +253,7 @@ const products = [
     ],
     "shop": "Ohquao",
     "priceVnd": "180,000VND",
-    "priceJpy": 1090.91,
+    "priceJpy": 1090.909090909091,
     "target": [],
     "genre": [
       "雑貨"
@@ -248,7 +261,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ノート.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -258,7 +272,7 @@ const products = [
     ],
     "shop": "propaganda",
     "priceVnd": "195,000VND",
-    "priceJpy": 1181.82,
+    "priceJpy": 1181.8181818181818,
     "target": [],
     "genre": [
       "雑貨"
@@ -266,7 +280,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "images/kago-bag.jpg",
+    "img": "images/to-to-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -276,7 +291,7 @@ const products = [
     ],
     "shop": "propaganda",
     "priceVnd": "92,000VND",
-    "priceJpy": 557.58,
+    "priceJpy": 557.5757575757576,
     "target": [],
     "genre": [
       "雑貨"
@@ -284,7 +299,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -294,7 +310,7 @@ const products = [
     ],
     "shop": "propaganda",
     "priceVnd": "380,000VND",
-    "priceJpy": 2303.03,
+    "priceJpy": 2303.030303030303,
     "target": [],
     "genre": [
       "雑貨"
@@ -302,7 +318,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/クッション.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -312,7 +329,7 @@ const products = [
     ],
     "shop": "saigon eco craft",
     "priceVnd": "250,000VND",
-    "priceJpy": 1515.15,
+    "priceJpy": 1515.1515151515152,
     "target": [],
     "genre": [
       "雑貨"
@@ -320,7 +337,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -330,7 +348,7 @@ const products = [
     ],
     "shop": "saigon eco craft",
     "priceVnd": "75,000VND",
-    "priceJpy": 454.55,
+    "priceJpy": 454.54545454545456,
     "target": [],
     "genre": [
       "雑貨"
@@ -338,7 +356,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -348,7 +367,7 @@ const products = [
     ],
     "shop": "saigon eco craft",
     "priceVnd": "210,000VND",
-    "priceJpy": 1272.73,
+    "priceJpy": 1272.7272727272727,
     "target": [],
     "genre": [
       "食器"
@@ -356,7 +375,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -366,7 +386,7 @@ const products = [
     ],
     "shop": "saigon eco craft",
     "priceVnd": "120,000VND",
-    "priceJpy": 727.27,
+    "priceJpy": 727.2727272727273,
     "target": [],
     "genre": [
       "雑貨"
@@ -374,7 +394,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -384,7 +405,7 @@ const products = [
     ],
     "shop": "saigon eco craft",
     "priceVnd": "154,000VND",
-    "priceJpy": 933.33,
+    "priceJpy": 933.3333333333334,
     "target": [],
     "genre": [
       "雑貨"
@@ -392,7 +413,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/財布.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -402,7 +424,7 @@ const products = [
     ],
     "shop": "The craft house",
     "priceVnd": "180,000VND",
-    "priceJpy": 1090.91,
+    "priceJpy": 1090.909090909091,
     "target": [],
     "genre": [
       "雑貨"
@@ -410,7 +432,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ノート.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -420,7 +443,7 @@ const products = [
     ],
     "shop": "The craft house",
     "priceVnd": "349,000VND",
-    "priceJpy": 2115.15,
+    "priceJpy": 2115.151515151515,
     "target": [],
     "genre": [
       "食器"
@@ -428,7 +451,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -438,7 +462,7 @@ const products = [
     ],
     "shop": "The craft house",
     "priceVnd": "195,000VND",
-    "priceJpy": 1181.82,
+    "priceJpy": 1181.8181818181818,
     "target": [],
     "genre": [
       "食器"
@@ -446,7 +470,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -456,7 +481,7 @@ const products = [
     ],
     "shop": "The craft house",
     "priceVnd": "150,000VND",
-    "priceJpy": 909.09,
+    "priceJpy": 909.0909090909091,
     "target": [],
     "genre": [
       "食器"
@@ -464,7 +489,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ストロー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -474,7 +500,7 @@ const products = [
     ],
     "shop": "The craft house",
     "priceVnd": "380,000VND",
-    "priceJpy": 2303.03,
+    "priceJpy": 2303.030303030303,
     "target": [],
     "genre": [
       "雑貨"
@@ -482,7 +508,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/はがき.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -492,7 +519,7 @@ const products = [
     ],
     "shop": "Mystere",
     "priceVnd": "250,000VND",
-    "priceJpy": 1515.15,
+    "priceJpy": 1515.1515151515152,
     "target": [],
     "genre": [
       "食器"
@@ -500,7 +527,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -510,7 +538,7 @@ const products = [
     ],
     "shop": "Mystere",
     "priceVnd": "75,000VND",
-    "priceJpy": 454.55,
+    "priceJpy": 454.54545454545456,
     "target": [],
     "genre": [
       "雑貨"
@@ -518,7 +546,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/クッション.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -528,7 +557,7 @@ const products = [
     ],
     "shop": "Mystere",
     "priceVnd": "2,185,000VND",
-    "priceJpy": 13242.42,
+    "priceJpy": 13242.424242424242,
     "target": [],
     "genre": [
       "アパレル"
@@ -536,7 +565,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -546,7 +576,7 @@ const products = [
     ],
     "shop": "Mystere",
     "priceVnd": "345,000VND",
-    "priceJpy": 2090.91,
+    "priceJpy": 2090.909090909091,
     "target": [],
     "genre": [
       "雑貨"
@@ -554,7 +584,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アクセサリー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -564,7 +595,7 @@ const products = [
     ],
     "shop": "saigon kitsch",
     "priceVnd": "120,000VND",
-    "priceJpy": 727.27,
+    "priceJpy": 727.2727272727273,
     "target": [],
     "genre": [
       "食器"
@@ -572,7 +603,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -582,7 +614,7 @@ const products = [
     ],
     "shop": "saigon kitsch",
     "priceVnd": "180,000VND",
-    "priceJpy": 1090.91,
+    "priceJpy": 1090.909090909091,
     "target": [],
     "genre": [
       "食器"
@@ -590,7 +622,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -600,7 +633,7 @@ const products = [
     ],
     "shop": "saigon kitsch",
     "priceVnd": "480,000VND",
-    "priceJpy": 2909.09,
+    "priceJpy": 2909.090909090909,
     "target": [],
     "genre": [
       "雑貨"
@@ -609,6 +642,7 @@ const products = [
     "popularity": 3,
     "isRecommend": true,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -618,7 +652,7 @@ const products = [
     ],
     "shop": "saigon kitsch",
     "priceVnd": "140,000VND",
-    "priceJpy": 848.48,
+    "priceJpy": 848.4848484848485,
     "target": [],
     "genre": [
       "雑貨"
@@ -626,7 +660,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/巾着.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -636,7 +671,7 @@ const products = [
     ],
     "shop": "saigon kitsch",
     "priceVnd": "30,000VND",
-    "priceJpy": 181.82,
+    "priceJpy": 181.8181818181818,
     "target": [],
     "genre": [
       "雑貨"
@@ -644,7 +679,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/マグネット.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -654,7 +690,7 @@ const products = [
     ],
     "shop": "saigon kitsch",
     "priceVnd": "80,000VND",
-    "priceJpy": 484.85,
+    "priceJpy": 484.8484848484849,
     "target": [],
     "genre": [
       "雑貨"
@@ -662,7 +698,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/ノート.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -672,7 +709,7 @@ const products = [
     ],
     "shop": "flame tree by zakka",
     "priceVnd": "690,000VND",
-    "priceJpy": 4181.82,
+    "priceJpy": 4181.818181818182,
     "target": [],
     "genre": [
       "アパレル"
@@ -680,7 +717,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -690,7 +728,7 @@ const products = [
     ],
     "shop": "flame tree by zakka",
     "priceVnd": "1,630,000VND",
-    "priceJpy": 9878.79,
+    "priceJpy": 9878.787878787878,
     "target": [],
     "genre": [
       "アパレル"
@@ -698,7 +736,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -708,7 +747,7 @@ const products = [
     ],
     "shop": "flame tree by zakka",
     "priceVnd": "1,872,000VND",
-    "priceJpy": 11345.45,
+    "priceJpy": 11345.454545454546,
     "target": [],
     "genre": [
       "アパレル"
@@ -716,7 +755,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -726,7 +766,7 @@ const products = [
     ],
     "shop": "flame tree by zakka",
     "priceVnd": "945,000VND",
-    "priceJpy": 5727.27,
+    "priceJpy": 5727.272727272727,
     "target": [],
     "genre": [
       "雑貨"
@@ -735,6 +775,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -744,7 +785,7 @@ const products = [
     ],
     "shop": "flame tree by zakka",
     "priceVnd": "2,450,000VND",
-    "priceJpy": 14848.48,
+    "priceJpy": 14848.484848484848,
     "target": [],
     "genre": [
       "アパレル"
@@ -752,7 +793,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -762,7 +804,7 @@ const products = [
     ],
     "shop": "flame tree by zakka",
     "priceVnd": "7,860,000VND",
-    "priceJpy": 47636.36,
+    "priceJpy": 47636.36363636364,
     "target": [],
     "genre": [
       "アパレル"
@@ -770,7 +812,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -780,7 +823,7 @@ const products = [
     ],
     "shop": "tuhu",
     "priceVnd": "129,000VND",
-    "priceJpy": 781.82,
+    "priceJpy": 781.8181818181819,
     "target": [],
     "genre": [
       "食器"
@@ -788,7 +831,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -798,7 +842,7 @@ const products = [
     ],
     "shop": "tuhu",
     "priceVnd": "329,000VND",
-    "priceJpy": 1993.94,
+    "priceJpy": 1993.939393939394,
     "target": [],
     "genre": [
       "食器"
@@ -806,7 +850,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -816,7 +861,7 @@ const products = [
     ],
     "shop": "tuhu",
     "priceVnd": "29,000VND",
-    "priceJpy": 175.76,
+    "priceJpy": 175.75757575757575,
     "target": [],
     "genre": [
       "食器"
@@ -824,7 +869,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -834,7 +880,7 @@ const products = [
     ],
     "shop": "catherine denoual maison",
     "priceVnd": "800,000VND",
-    "priceJpy": 4848.48,
+    "priceJpy": 4848.484848484848,
     "target": [],
     "genre": [
       "雑貨"
@@ -842,7 +888,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -852,7 +899,7 @@ const products = [
     ],
     "shop": "catherine denoual maison",
     "priceVnd": "2,175,000VND",
-    "priceJpy": 13181.82,
+    "priceJpy": 13181.818181818182,
     "target": [],
     "genre": [
       "雑貨"
@@ -860,7 +907,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/クッション.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -870,7 +918,7 @@ const products = [
     ],
     "shop": "catherine denoual maison",
     "priceVnd": "152,500VND",
-    "priceJpy": 924.24,
+    "priceJpy": 924.2424242424242,
     "target": [],
     "genre": [
       "雑貨"
@@ -878,7 +926,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -888,7 +937,7 @@ const products = [
     ],
     "shop": "catherine denoual maison",
     "priceVnd": "390,000VND",
-    "priceJpy": 2363.64,
+    "priceJpy": 2363.6363636363635,
     "target": [],
     "genre": [
       "雑貨"
@@ -896,7 +945,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -906,7 +956,7 @@ const products = [
     ],
     "shop": "catherine denoual maison",
     "priceVnd": "530,000VND",
-    "priceJpy": 3212.12,
+    "priceJpy": 3212.121212121212,
     "target": [],
     "genre": [
       "雑貨"
@@ -914,7 +964,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -924,7 +975,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "15,000VND",
-    "priceJpy": 90.91,
+    "priceJpy": 90.9090909090909,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -933,6 +984,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -942,7 +994,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "26,000VND",
-    "priceJpy": 157.58,
+    "priceJpy": 157.57575757575756,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -950,7 +1002,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -960,7 +1013,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "10,000VND",
-    "priceJpy": 60.61,
+    "priceJpy": 60.60606060606061,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -968,7 +1021,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/麺.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -978,7 +1032,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "16,900VND",
-    "priceJpy": 102.42,
+    "priceJpy": 102.42424242424242,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -986,7 +1040,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1004,7 +1059,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/麺.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1014,7 +1070,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "12,500VND",
-    "priceJpy": 75.76,
+    "priceJpy": 75.75757575757575,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1022,7 +1078,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/麺.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1032,15 +1089,16 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "5,400VND",
-    "priceJpy": 32.73,
+    "priceJpy": 32.72727272727273,
     "target": [],
     "genre": [
-      "お菓子以外の食品"
+      "お菓子"
     ],
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1050,7 +1108,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "18,000VND",
-    "priceJpy": 109.09,
+    "priceJpy": 109.0909090909091,
     "target": [],
     "genre": [
       "お菓子"
@@ -1058,7 +1116,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1068,7 +1127,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "4,100VND",
-    "priceJpy": 24.85,
+    "priceJpy": 24.848484848484848,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1076,7 +1135,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1086,7 +1146,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "12,800VND",
-    "priceJpy": 77.58,
+    "priceJpy": 77.57575757575758,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1094,7 +1154,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1104,7 +1165,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "93,300VND",
-    "priceJpy": 565.45,
+    "priceJpy": 565.4545454545455,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1112,7 +1173,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1122,7 +1184,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "11,300VND",
-    "priceJpy": 68.48,
+    "priceJpy": 68.48484848484848,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1130,7 +1192,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1140,7 +1203,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "185,000VND",
-    "priceJpy": 1121.21,
+    "priceJpy": 1121.2121212121212,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1148,7 +1211,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1158,7 +1222,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "9,500VND",
-    "priceJpy": 57.58,
+    "priceJpy": 57.57575757575758,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1166,7 +1230,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1176,7 +1241,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "7,300VND",
-    "priceJpy": 44.24,
+    "priceJpy": 44.24242424242424,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1184,7 +1249,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": true,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1194,7 +1260,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "14,300VND",
-    "priceJpy": 86.67,
+    "priceJpy": 86.66666666666667,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1202,7 +1268,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1212,7 +1279,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "38,000VND",
-    "priceJpy": 230.3,
+    "priceJpy": 230.3030303030303,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -1220,7 +1287,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1230,7 +1298,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "12,500VND",
-    "priceJpy": 75.76,
+    "priceJpy": 75.75757575757575,
     "target": [],
     "genre": [
       "飲み物"
@@ -1238,7 +1306,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1248,7 +1317,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "16,800VND",
-    "priceJpy": 101.82,
+    "priceJpy": 101.81818181818181,
     "target": [],
     "genre": [
       "飲み物"
@@ -1256,7 +1325,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ミルク、ジュース.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1266,7 +1336,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "13,800VND",
-    "priceJpy": 83.64,
+    "priceJpy": 83.63636363636364,
     "target": [],
     "genre": [
       "飲み物"
@@ -1274,7 +1344,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1284,7 +1355,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "13,800VND",
-    "priceJpy": 83.64,
+    "priceJpy": 83.63636363636364,
     "target": [],
     "genre": [
       "飲み物"
@@ -1292,7 +1363,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1302,7 +1374,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "12,100VND",
-    "priceJpy": 73.33,
+    "priceJpy": 73.33333333333333,
     "target": [],
     "genre": [
       "飲み物"
@@ -1310,7 +1382,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1320,7 +1393,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "8,200VND",
-    "priceJpy": 49.7,
+    "priceJpy": 49.696969696969695,
     "target": [],
     "genre": [
       "飲み物"
@@ -1328,7 +1401,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1338,7 +1412,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "35,000VND",
-    "priceJpy": 212.12,
+    "priceJpy": 212.12121212121212,
     "target": [],
     "genre": [
       "飲み物"
@@ -1346,7 +1420,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1356,7 +1431,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "13,600VND",
-    "priceJpy": 82.42,
+    "priceJpy": 82.42424242424242,
     "target": [],
     "genre": [
       "飲み物"
@@ -1364,7 +1439,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ミルク、ジュース.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1374,7 +1450,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "20,500VND",
-    "priceJpy": 124.24,
+    "priceJpy": 124.24242424242425,
     "target": [],
     "genre": [
       "飲み物"
@@ -1382,7 +1458,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ミルク、ジュース.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1392,7 +1469,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "27,600VND",
-    "priceJpy": 167.27,
+    "priceJpy": 167.27272727272728,
     "target": [],
     "genre": [
       "飲み物"
@@ -1400,7 +1477,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "~",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1410,7 +1488,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "24,500VND",
-    "priceJpy": 148.48,
+    "priceJpy": 148.4848484848485,
     "target": [],
     "genre": [
       "お菓子"
@@ -1418,7 +1496,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/doraihuru-tu.jpg",
+    "priceSuffix": "~",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1428,7 +1507,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "36,400VND",
-    "priceJpy": 220.61,
+    "priceJpy": 220.6060606060606,
     "target": [],
     "genre": [
       "お菓子"
@@ -1436,7 +1515,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1446,7 +1526,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "28,500VND",
-    "priceJpy": 172.73,
+    "priceJpy": 172.72727272727272,
     "target": [],
     "genre": [
       "お菓子"
@@ -1454,7 +1534,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1464,7 +1545,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "51,900VND",
-    "priceJpy": 314.55,
+    "priceJpy": 314.54545454545456,
     "target": [],
     "genre": [
       "お菓子"
@@ -1472,7 +1553,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1482,7 +1564,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "21,200VND",
-    "priceJpy": 128.48,
+    "priceJpy": 128.4848484848485,
     "target": [],
     "genre": [
       "お菓子"
@@ -1490,7 +1572,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1500,7 +1583,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "157,100VND",
-    "priceJpy": 952.12,
+    "priceJpy": 952.1212121212121,
     "target": [],
     "genre": [
       "お菓子"
@@ -1508,7 +1591,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "https://tsukatte.com/wp-content/uploads/2020/08/chocolate.png",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1518,7 +1602,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "29,500VND",
-    "priceJpy": 178.79,
+    "priceJpy": 178.78787878787878,
     "target": [],
     "genre": [
       "お菓子"
@@ -1526,7 +1610,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "https://tsukatte.com/wp-content/uploads/2020/08/chocolate.png",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1536,7 +1621,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "51,200VND",
-    "priceJpy": 310.3,
+    "priceJpy": 310.3030303030303,
     "target": [],
     "genre": [
       "お菓子"
@@ -1544,7 +1629,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": ""
   },
   {
@@ -1554,7 +1640,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "62,500VND",
-    "priceJpy": 378.79,
+    "priceJpy": 378.7878787878788,
     "target": [],
     "genre": [
       "お菓子"
@@ -1562,7 +1648,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1572,7 +1659,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "11,900VND",
-    "priceJpy": 72.12,
+    "priceJpy": 72.12121212121212,
     "target": [],
     "genre": [
       "その他"
@@ -1580,7 +1667,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1590,7 +1678,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "90,000VND",
-    "priceJpy": 545.45,
+    "priceJpy": 545.4545454545455,
     "target": [],
     "genre": [
       "その他"
@@ -1598,7 +1686,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1608,7 +1697,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "185,000VND",
-    "priceJpy": 1121.21,
+    "priceJpy": 1121.2121212121212,
     "target": [],
     "genre": [
       "その他"
@@ -1616,7 +1705,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1626,7 +1716,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "145,000VND",
-    "priceJpy": 878.79,
+    "priceJpy": 878.7878787878788,
     "target": [],
     "genre": [
       "その他"
@@ -1634,7 +1724,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1644,7 +1735,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "13,900VND",
-    "priceJpy": 84.24,
+    "priceJpy": 84.24242424242425,
     "target": [],
     "genre": [
       "その他"
@@ -1652,7 +1743,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1662,7 +1754,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "81,000VND",
-    "priceJpy": 490.91,
+    "priceJpy": 490.90909090909093,
     "target": [],
     "genre": [
       "その他"
@@ -1670,7 +1762,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/靴.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1680,7 +1773,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "28,000VND",
-    "priceJpy": 169.7,
+    "priceJpy": 169.6969696969697,
     "target": [],
     "genre": [
       "その他"
@@ -1688,7 +1781,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/うちわ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -1698,7 +1792,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "48,000VND",
-    "priceJpy": 290.91,
+    "priceJpy": 290.90909090909093,
     "target": [],
     "genre": [
       "その他"
@@ -1706,7 +1800,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1716,7 +1811,7 @@ const products = [
     ],
     "shop": "ウィンマート、コープマート、ファミマ、サークルKなど",
     "priceVnd": "29,000VND",
-    "priceJpy": 175.76,
+    "priceJpy": 175.75757575757575,
     "target": [],
     "genre": [
       "その他"
@@ -1724,7 +1819,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1734,7 +1830,7 @@ const products = [
     ],
     "shop": "中央郵便局",
     "priceVnd": "15,000VND",
-    "priceJpy": 90.91,
+    "priceJpy": 90.9090909090909,
     "target": [],
     "genre": [
       "その他"
@@ -1742,7 +1838,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/はがき.jpg",
+    "priceSuffix": "~",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1752,7 +1849,7 @@ const products = [
     ],
     "shop": "中央郵便局",
     "priceVnd": "80,000VND",
-    "priceJpy": 484.85,
+    "priceJpy": 484.8484848484849,
     "target": [],
     "genre": [
       "その他"
@@ -1760,7 +1857,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/切手.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1770,7 +1868,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "20,000VND",
-    "priceJpy": 121.21,
+    "priceJpy": 121.21212121212122,
     "target": [],
     "genre": [
       "雑貨"
@@ -1778,7 +1876,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/巾着.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1788,7 +1887,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "50,000VND",
-    "priceJpy": 303.03,
+    "priceJpy": 303.030303030303,
     "target": [],
     "genre": [
       "食器"
@@ -1796,7 +1895,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/カトラリー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1806,7 +1906,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "100,000VND",
-    "priceJpy": 606.06,
+    "priceJpy": 606.060606060606,
     "target": [],
     "genre": [
       "食器"
@@ -1814,7 +1914,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1824,7 +1925,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "150,000VND",
-    "priceJpy": 909.09,
+    "priceJpy": 909.0909090909091,
     "target": [],
     "genre": [
       "雑貨"
@@ -1832,7 +1933,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おもちゃ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1842,7 +1944,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "200,000VND",
-    "priceJpy": 1212.12,
+    "priceJpy": 1212.121212121212,
     "target": [],
     "genre": [
       "食器"
@@ -1850,7 +1952,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ミルク、ジュース.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1860,7 +1963,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "250,000VND",
-    "priceJpy": 1515.15,
+    "priceJpy": 1515.1515151515152,
     "target": [],
     "genre": [
       "雑貨"
@@ -1869,6 +1972,7 @@ const products = [
     "popularity": 2,
     "isRecommend": true,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1878,7 +1982,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "150,000VND",
-    "priceJpy": 909.09,
+    "priceJpy": 909.0909090909091,
     "target": [],
     "genre": [
       "雑貨"
@@ -1887,6 +1991,7 @@ const products = [
     "popularity": 2,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1896,7 +2001,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "60,000VND",
-    "priceJpy": 363.64,
+    "priceJpy": 363.6363636363636,
     "target": [],
     "genre": [
       "食器"
@@ -1904,7 +2009,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/カトラリー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1914,7 +2020,7 @@ const products = [
     ],
     "shop": "ベンタイン市場",
     "priceVnd": "200,000VND",
-    "priceJpy": 1212.12,
+    "priceJpy": 1212.121212121212,
     "target": [],
     "genre": [
       "アパレル"
@@ -1922,7 +2028,27 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
+    "source": "雑誌るるぶ’２４"
+  },
+  {
+    "name": "量り売りコーヒー",
+    "area": [
+      "ベンタイン市場"
+    ],
+    "shop": "ベンタイン市場",
+    "priceVnd": "80,000VND",
+    "priceJpy": 484.8484848484849,
+    "target": [],
+    "genre": [
+      "飲み物"
+    ],
+    "isRare": false,
+    "popularity": 2,
+    "isRecommend": false,
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "~",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1932,7 +2058,7 @@ const products = [
     ],
     "shop": "L'Usine",
     "priceVnd": "80,000VND",
-    "priceJpy": 484.85,
+    "priceJpy": 484.8484848484849,
     "target": [],
     "genre": [
       "飲み物"
@@ -1940,7 +2066,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1950,7 +2077,7 @@ const products = [
     ],
     "shop": "L'Usine",
     "priceVnd": "100,000VND",
-    "priceJpy": 606.06,
+    "priceJpy": 606.060606060606,
     "target": [],
     "genre": [
       "飲み物"
@@ -1958,7 +2085,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1968,7 +2096,7 @@ const products = [
     ],
     "shop": "vesta",
     "priceVnd": "120,000VND",
-    "priceJpy": 727.27,
+    "priceJpy": 727.2727272727273,
     "target": [],
     "genre": [
       "雑貨"
@@ -1976,7 +2104,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -1986,7 +2115,7 @@ const products = [
     ],
     "shop": "vesta",
     "priceVnd": "125,000VND",
-    "priceJpy": 757.58,
+    "priceJpy": 757.5757575757576,
     "target": [],
     "genre": [
       "雑貨"
@@ -1994,7 +2123,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2004,7 +2134,7 @@ const products = [
     ],
     "shop": "vesta",
     "priceVnd": "549,900VND",
-    "priceJpy": 3332.73,
+    "priceJpy": 3332.7272727272725,
     "target": [],
     "genre": [
       "雑貨"
@@ -2012,7 +2142,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/キャンドル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2022,7 +2153,7 @@ const products = [
     ],
     "shop": "vesta",
     "priceVnd": "978,000VND",
-    "priceJpy": 5927.27,
+    "priceJpy": 5927.272727272727,
     "target": [],
     "genre": [
       "アパレル"
@@ -2030,7 +2161,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/靴.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2040,7 +2172,7 @@ const products = [
     ],
     "shop": "vesta",
     "priceVnd": "390,000VND",
-    "priceJpy": 2363.64,
+    "priceJpy": 2363.6363636363635,
     "target": [],
     "genre": [
       "お菓子"
@@ -2048,7 +2180,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2058,7 +2191,7 @@ const products = [
     ],
     "shop": "vesta",
     "priceVnd": "250,000VND",
-    "priceJpy": 1515.15,
+    "priceJpy": 1515.1515151515152,
     "target": [],
     "genre": [
       "雑貨"
@@ -2066,7 +2199,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/to-to-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2076,7 +2210,7 @@ const products = [
     ],
     "shop": "vesta",
     "priceVnd": "180,000VND",
-    "priceJpy": 1090.91,
+    "priceJpy": 1090.909090909091,
     "target": [],
     "genre": [
       "雑貨"
@@ -2084,7 +2218,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2094,7 +2229,7 @@ const products = [
     ],
     "shop": "hana vietnam",
     "priceVnd": "550,000VND",
-    "priceJpy": 3333.33,
+    "priceJpy": 3333.3333333333335,
     "target": [],
     "genre": [
       "雑貨"
@@ -2103,6 +2238,7 @@ const products = [
     "popularity": 2,
     "isRecommend": false,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2112,7 +2248,7 @@ const products = [
     ],
     "shop": "hana vietnam",
     "priceVnd": "100,000VND",
-    "priceJpy": 606.06,
+    "priceJpy": 606.060606060606,
     "target": [],
     "genre": [
       "雑貨"
@@ -2120,7 +2256,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アクセサリー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2130,7 +2267,7 @@ const products = [
     ],
     "shop": "kashew",
     "priceVnd": "120,000VND",
-    "priceJpy": 727.27,
+    "priceJpy": 727.2727272727273,
     "target": [],
     "genre": [
       "お菓子"
@@ -2138,7 +2275,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2148,7 +2286,7 @@ const products = [
     ],
     "shop": "naunau",
     "priceVnd": "120,000VND",
-    "priceJpy": 727.27,
+    "priceJpy": 727.2727272727273,
     "target": [],
     "genre": [
       "その他"
@@ -2156,7 +2294,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2166,7 +2305,7 @@ const products = [
     ],
     "shop": "libe",
     "priceVnd": "90,000VND",
-    "priceJpy": 545.45,
+    "priceJpy": 545.4545454545455,
     "target": [],
     "genre": [
       "アパレル"
@@ -2174,7 +2313,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2184,7 +2324,7 @@ const products = [
     ],
     "shop": "libe",
     "priceVnd": "390,000VND",
-    "priceJpy": 2363.64,
+    "priceJpy": 2363.6363636363635,
     "target": [],
     "genre": [
       "アパレル"
@@ -2192,17 +2332,18 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
-    "name": "ミニ",
+    "name": "ミニかごバッグ",
     "area": [
       "チョロン"
     ],
     "shop": "Chi tu",
     "priceVnd": "40,000VND",
-    "priceJpy": 242.42,
+    "priceJpy": 242.42424242424244,
     "target": [],
     "genre": [
       "雑貨"
@@ -2210,7 +2351,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/kago-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2220,7 +2362,7 @@ const products = [
     ],
     "shop": "Chi tu",
     "priceVnd": "70,000VND",
-    "priceJpy": 424.24,
+    "priceJpy": 424.24242424242425,
     "target": [],
     "genre": [
       "雑貨"
@@ -2229,16 +2371,17 @@ const products = [
     "popularity": 2,
     "isRecommend": true,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
-    "name": "メッシュバッグ",
+    "name": "メッシュかごバッグ",
     "area": [
       "チョロン"
     ],
     "shop": "Chi tu",
     "priceVnd": "20,000VND",
-    "priceJpy": 121.21,
+    "priceJpy": 121.21212121212122,
     "target": [],
     "genre": [
       "雑貨"
@@ -2247,6 +2390,7 @@ const products = [
     "popularity": 2,
     "isRecommend": true,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2256,7 +2400,7 @@ const products = [
     ],
     "shop": "thang chinh phat",
     "priceVnd": "40,000VND",
-    "priceJpy": 242.42,
+    "priceJpy": 242.42424242424244,
     "target": [],
     "genre": [
       "雑貨"
@@ -2264,7 +2408,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おもちゃ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2274,7 +2419,7 @@ const products = [
     ],
     "shop": "thang chinh phat",
     "priceVnd": "40,000VND",
-    "priceJpy": 242.42,
+    "priceJpy": 242.42424242424244,
     "target": [],
     "genre": [
       "雑貨"
@@ -2282,7 +2427,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おもちゃ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2292,7 +2438,7 @@ const products = [
     ],
     "shop": "thang chinh phat",
     "priceVnd": "80,000VND",
-    "priceJpy": 484.85,
+    "priceJpy": 484.8484848484849,
     "target": [],
     "genre": [
       "雑貨"
@@ -2300,7 +2446,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おもちゃ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2310,7 +2457,7 @@ const products = [
     ],
     "shop": "thang chinh phat",
     "priceVnd": "13,000VND",
-    "priceJpy": 78.79,
+    "priceJpy": 78.78787878787878,
     "target": [],
     "genre": [
       "雑貨"
@@ -2318,7 +2465,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おもちゃ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2328,7 +2476,7 @@ const products = [
     ],
     "shop": "ビンタイ市場",
     "priceVnd": "65,000VND",
-    "priceJpy": 393.94,
+    "priceJpy": 393.93939393939394,
     "target": [],
     "genre": [
       "雑貨"
@@ -2336,7 +2484,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2346,7 +2495,7 @@ const products = [
     ],
     "shop": "ビンタイ市場",
     "priceVnd": "16,000VND",
-    "priceJpy": 96.97,
+    "priceJpy": 96.96969696969697,
     "target": [],
     "genre": [
       "お菓子"
@@ -2354,7 +2503,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/doraihuru-tu.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2364,7 +2514,7 @@ const products = [
     ],
     "shop": "ビンタイ市場",
     "priceVnd": "25,000VND",
-    "priceJpy": 151.52,
+    "priceJpy": 151.5151515151515,
     "target": [],
     "genre": [
       "雑貨"
@@ -2372,7 +2522,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/キャンドル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2382,7 +2533,7 @@ const products = [
     ],
     "shop": "happer's",
     "priceVnd": "450,000VND",
-    "priceJpy": 2727.27,
+    "priceJpy": 2727.2727272727275,
     "target": [],
     "genre": [
       "雑貨"
@@ -2391,6 +2542,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2400,7 +2552,7 @@ const products = [
     ],
     "shop": "Le Hang",
     "priceVnd": "290,000VND",
-    "priceJpy": 1757.58,
+    "priceJpy": 1757.5757575757575,
     "target": [],
     "genre": [
       "雑貨"
@@ -2408,7 +2560,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アクセサリー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2418,7 +2571,7 @@ const products = [
     ],
     "shop": "maison de bunga",
     "priceVnd": "600,000VND",
-    "priceJpy": 3636.36,
+    "priceJpy": 3636.3636363636365,
     "target": [],
     "genre": [
       "雑貨"
@@ -2426,7 +2579,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2436,7 +2590,7 @@ const products = [
     ],
     "shop": "",
     "priceVnd": "60,000VND",
-    "priceJpy": 363.64,
+    "priceJpy": 363.6363636363636,
     "target": [],
     "genre": [
       "食器"
@@ -2444,7 +2598,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2454,7 +2609,7 @@ const products = [
     ],
     "shop": "",
     "priceVnd": "30,000VND",
-    "priceJpy": 181.82,
+    "priceJpy": 181.8181818181818,
     "target": [],
     "genre": [
       "お菓子"
@@ -2462,7 +2617,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ’２４"
   },
   {
@@ -2472,7 +2628,7 @@ const products = [
     ],
     "shop": "theu theu",
     "priceVnd": "160,000VND",
-    "priceJpy": 969.7,
+    "priceJpy": 969.6969696969697,
     "target": [],
     "genre": [
       "雑貨"
@@ -2480,7 +2636,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2490,7 +2647,7 @@ const products = [
     ],
     "shop": "theu theu",
     "priceVnd": "160,000VND",
-    "priceJpy": 969.7,
+    "priceJpy": 969.6969696969697,
     "target": [],
     "genre": [
       "雑貨"
@@ -2498,7 +2655,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2508,7 +2666,7 @@ const products = [
     ],
     "shop": "theu theu",
     "priceVnd": "160,000VND",
-    "priceJpy": 969.7,
+    "priceJpy": 969.6969696969697,
     "target": [],
     "genre": [
       "雑貨"
@@ -2516,7 +2674,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/巾着.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2526,7 +2685,7 @@ const products = [
     ],
     "shop": "theu theu",
     "priceVnd": "140,000VND",
-    "priceJpy": 848.48,
+    "priceJpy": 848.4848484848485,
     "target": [],
     "genre": [
       "雑貨"
@@ -2535,6 +2694,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2544,7 +2704,7 @@ const products = [
     ],
     "shop": "theu theu",
     "priceVnd": "400,000VND",
-    "priceJpy": 2424.24,
+    "priceJpy": 2424.242424242424,
     "target": [],
     "genre": [
       "雑貨"
@@ -2552,7 +2712,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2562,7 +2723,7 @@ const products = [
     ],
     "shop": "theu theu",
     "priceVnd": "50,000VND",
-    "priceJpy": 303.03,
+    "priceJpy": 303.030303030303,
     "target": [],
     "genre": [
       "雑貨"
@@ -2570,7 +2731,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アクセサリー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2580,7 +2742,7 @@ const products = [
     ],
     "shop": "theu theu",
     "priceVnd": "100,000VND",
-    "priceJpy": 606.06,
+    "priceJpy": 606.060606060606,
     "target": [],
     "genre": [
       "雑貨"
@@ -2588,7 +2750,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2598,7 +2761,7 @@ const products = [
     ],
     "shop": "ninh khuong",
     "priceVnd": "189,000VND",
-    "priceJpy": 1145.45,
+    "priceJpy": 1145.4545454545455,
     "target": [],
     "genre": [
       "雑貨"
@@ -2606,7 +2769,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2616,7 +2780,7 @@ const products = [
     ],
     "shop": "ninh khuong",
     "priceVnd": "119,000VND",
-    "priceJpy": 721.21,
+    "priceJpy": 721.2121212121212,
     "target": [],
     "genre": [
       "雑貨"
@@ -2624,7 +2788,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/巾着.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2634,7 +2799,7 @@ const products = [
     ],
     "shop": "ninh khuong",
     "priceVnd": "235,000VND",
-    "priceJpy": 1424.24,
+    "priceJpy": 1424.2424242424242,
     "target": [],
     "genre": [
       "雑貨"
@@ -2642,7 +2807,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/巾着.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2652,7 +2818,7 @@ const products = [
     ],
     "shop": "ninh khuong",
     "priceVnd": "998,000VND",
-    "priceJpy": 6048.48,
+    "priceJpy": 6048.484848484848,
     "target": [],
     "genre": [
       "雑貨"
@@ -2660,7 +2826,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/テーブルウェア.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2670,7 +2837,7 @@ const products = [
     ],
     "shop": "ninh khuong",
     "priceVnd": "769,000VND",
-    "priceJpy": 4660.61,
+    "priceJpy": 4660.606060606061,
     "target": [],
     "genre": [
       "アパレル"
@@ -2678,7 +2845,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2688,7 +2856,7 @@ const products = [
     ],
     "shop": "ninh khuong",
     "priceVnd": "149,000VND",
-    "priceJpy": 903.03,
+    "priceJpy": 903.030303030303,
     "target": [],
     "genre": [
       "アパレル"
@@ -2696,7 +2864,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2706,15 +2875,14 @@ const products = [
     ],
     "shop": "ha phuong souvernir shop",
     "priceVnd": "147,000VND",
-    "priceJpy": 890.91,
+    "priceJpy": 890.9090909090909,
     "target": [],
-    "genre": [
-      "その他"
-    ],
+    "genre": [],
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2724,7 +2892,7 @@ const products = [
     ],
     "shop": "ha phuong souvernir shop",
     "priceVnd": "525,000VND",
-    "priceJpy": 3181.82,
+    "priceJpy": 3181.818181818182,
     "target": [],
     "genre": [
       "雑貨"
@@ -2732,7 +2900,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/クッション.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2742,7 +2911,7 @@ const products = [
     ],
     "shop": "ha phuong souvernir shop",
     "priceVnd": "220,000VND",
-    "priceJpy": 1333.33,
+    "priceJpy": 1333.3333333333333,
     "target": [],
     "genre": [
       "雑貨"
@@ -2750,7 +2919,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2760,7 +2930,7 @@ const products = [
     ],
     "shop": "ha phuong souvernir shop",
     "priceVnd": "294,000VND",
-    "priceJpy": 1781.82,
+    "priceJpy": 1781.8181818181818,
     "target": [],
     "genre": [
       "雑貨"
@@ -2768,7 +2938,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2778,7 +2949,7 @@ const products = [
     ],
     "shop": "ha phuong souvernir shop",
     "priceVnd": "252,000VND",
-    "priceJpy": 1527.27,
+    "priceJpy": 1527.2727272727273,
     "target": [],
     "genre": [
       "雑貨"
@@ -2786,7 +2957,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/財布.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2796,7 +2968,7 @@ const products = [
     ],
     "shop": "ha phuong souvernir shop",
     "priceVnd": "84,000VND",
-    "priceJpy": 509.09,
+    "priceJpy": 509.09090909090907,
     "target": [],
     "genre": [
       "雑貨"
@@ -2804,7 +2976,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2822,7 +2995,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/クッション.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2832,7 +3006,7 @@ const products = [
     ],
     "shop": "catherine denoual maison",
     "priceVnd": "420,000VND",
-    "priceJpy": 2545.45,
+    "priceJpy": 2545.4545454545455,
     "target": [],
     "genre": [
       "雑貨"
@@ -2840,7 +3014,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2850,7 +3025,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "680,000VND",
-    "priceJpy": 4121.21,
+    "priceJpy": 4121.212121212121,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -2858,7 +3033,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2868,7 +3044,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "120,000VND",
-    "priceJpy": 727.27,
+    "priceJpy": 727.2727272727273,
     "target": [],
     "genre": [
       "お菓子"
@@ -2876,7 +3052,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2886,7 +3063,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "35,000VND",
-    "priceJpy": 212.12,
+    "priceJpy": 212.12121212121212,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -2894,7 +3071,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/doraihuru-tu.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2904,7 +3082,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "88,000VND",
-    "priceJpy": 533.33,
+    "priceJpy": 533.3333333333334,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -2912,7 +3090,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2922,7 +3101,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "58,000VND",
-    "priceJpy": 351.52,
+    "priceJpy": 351.5151515151515,
     "target": [],
     "genre": [
       "お菓子"
@@ -2930,7 +3109,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/doraihuru-tu.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2940,7 +3120,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "61,000VND",
-    "priceJpy": 369.7,
+    "priceJpy": 369.6969696969697,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -2948,7 +3128,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2958,7 +3139,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "98,000VND",
-    "priceJpy": 593.94,
+    "priceJpy": 593.939393939394,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -2966,7 +3147,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2976,7 +3158,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "35,000VND",
-    "priceJpy": 212.12,
+    "priceJpy": 212.12121212121212,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -2985,6 +3167,7 @@ const products = [
     "popularity": 2,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -2994,7 +3177,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "199,000VND",
-    "priceJpy": 1206.06,
+    "priceJpy": 1206.060606060606,
     "target": [],
     "genre": [
       "飲み物"
@@ -3002,7 +3185,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3012,7 +3196,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "116,000VND",
-    "priceJpy": 703.03,
+    "priceJpy": 703.030303030303,
     "target": [],
     "genre": [
       "飲み物"
@@ -3020,7 +3204,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3030,7 +3215,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "65,000VND",
-    "priceJpy": 393.94,
+    "priceJpy": 393.93939393939394,
     "target": [],
     "genre": [
       "雑貨"
@@ -3038,7 +3223,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3048,7 +3234,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "60,000VND",
-    "priceJpy": 363.64,
+    "priceJpy": 363.6363636363636,
     "target": [],
     "genre": [
       "飲み物"
@@ -3056,7 +3242,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "https://www.tnkjapan.com/blog/2023/10/10/recommended-souvenirs-saigon/"
   },
   {
@@ -3066,7 +3253,7 @@ const products = [
     ],
     "shop": "annam gourmet",
     "priceVnd": "81,000VND",
-    "priceJpy": 490.91,
+    "priceJpy": 490.90909090909093,
     "target": [],
     "genre": [
       "お菓子"
@@ -3074,7 +3261,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "https://www.tnkjapan.com/blog/2023/10/10/recommended-souvenirs-saigon/"
   },
   {
@@ -3084,7 +3272,7 @@ const products = [
     ],
     "shop": "annam gourmet market",
     "priceVnd": "55,000VND",
-    "priceJpy": 333.33,
+    "priceJpy": 333.3333333333333,
     "target": [],
     "genre": [
       "雑貨"
@@ -3092,7 +3280,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "images/kago-bag.jpg",
+    "img": "images/to-to-bag.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3102,7 +3291,7 @@ const products = [
     ],
     "shop": "bon grocer",
     "priceVnd": "141,800VND",
-    "priceJpy": 859.39,
+    "priceJpy": 859.3939393939394,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3110,7 +3299,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3120,7 +3310,7 @@ const products = [
     ],
     "shop": "bon grocer",
     "priceVnd": "51,800VND",
-    "priceJpy": 313.94,
+    "priceJpy": 313.93939393939394,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3128,7 +3318,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3138,7 +3329,7 @@ const products = [
     ],
     "shop": "bon grocer",
     "priceVnd": "13,100VND",
-    "priceJpy": 79.39,
+    "priceJpy": 79.39393939393939,
     "target": [],
     "genre": [
       "飲み物"
@@ -3146,7 +3337,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3156,7 +3348,7 @@ const products = [
     ],
     "shop": "bon grocer",
     "priceVnd": "24,800VND",
-    "priceJpy": 150.3,
+    "priceJpy": 150.3030303030303,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3164,7 +3356,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3174,7 +3367,7 @@ const products = [
     ],
     "shop": "bon grocer",
     "priceVnd": "20,800VND",
-    "priceJpy": 126.06,
+    "priceJpy": 126.06060606060606,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3182,7 +3375,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3200,7 +3394,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ミルク、ジュース.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3210,7 +3405,7 @@ const products = [
     ],
     "shop": "bon grocer",
     "priceVnd": "13,000VND",
-    "priceJpy": 78.79,
+    "priceJpy": 78.78787878787878,
     "target": [],
     "genre": [
       "飲み物"
@@ -3218,7 +3413,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ミルク、ジュース.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3228,7 +3424,7 @@ const products = [
     ],
     "shop": "bon grocer",
     "priceVnd": "130,000VND",
-    "priceJpy": 787.88,
+    "priceJpy": 787.8787878787879,
     "target": [],
     "genre": [
       "その他"
@@ -3236,7 +3432,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3246,7 +3443,7 @@ const products = [
     ],
     "shop": "bon grocer",
     "priceVnd": "21,500VND",
-    "priceJpy": 130.3,
+    "priceJpy": 130.3030303030303,
     "target": [],
     "genre": [
       "その他"
@@ -3255,6 +3452,7 @@ const products = [
     "popularity": 2,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3264,15 +3462,14 @@ const products = [
     ],
     "shop": "nga art and craft",
     "priceVnd": "1,516,000VND",
-    "priceJpy": 9187.88,
+    "priceJpy": 9187.878787878788,
     "target": [],
-    "genre": [
-      "その他"
-    ],
+    "genre": [],
     "isRare": true,
     "popularity": 0,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3282,7 +3479,7 @@ const products = [
     ],
     "shop": "nga art and craft",
     "priceVnd": "1,242,000VND",
-    "priceJpy": 7527.27,
+    "priceJpy": 7527.272727272727,
     "target": [],
     "genre": [
       "雑貨"
@@ -3290,7 +3487,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アクセサリー.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3300,7 +3498,7 @@ const products = [
     ],
     "shop": "nga art and craft",
     "priceVnd": "1,014,000VND",
-    "priceJpy": 6145.45,
+    "priceJpy": 6145.454545454545,
     "target": [],
     "genre": [
       "雑貨"
@@ -3308,7 +3506,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/財布.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3318,7 +3517,7 @@ const products = [
     ],
     "shop": "nga art and craft",
     "priceVnd": "798,000VND",
-    "priceJpy": 4836.36,
+    "priceJpy": 4836.363636363636,
     "target": [],
     "genre": [
       "雑貨"
@@ -3326,7 +3525,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3336,7 +3536,7 @@ const products = [
     ],
     "shop": "nga art and craft",
     "priceVnd": "912,000VND",
-    "priceJpy": 5527.27,
+    "priceJpy": 5527.272727272727,
     "target": [],
     "genre": [
       "雑貨"
@@ -3344,7 +3544,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3354,7 +3555,7 @@ const products = [
     ],
     "shop": "duy tan",
     "priceVnd": "129,000VND",
-    "priceJpy": 781.82,
+    "priceJpy": 781.8181818181819,
     "target": [],
     "genre": [
       "雑貨"
@@ -3363,6 +3564,7 @@ const products = [
     "popularity": 0,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3372,7 +3574,7 @@ const products = [
     ],
     "shop": "duy tan",
     "priceVnd": "86,000VND",
-    "priceJpy": 521.21,
+    "priceJpy": 521.2121212121212,
     "target": [],
     "genre": [
       "食器"
@@ -3380,7 +3582,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3390,7 +3593,7 @@ const products = [
     ],
     "shop": "duy tan",
     "priceVnd": "688,000VND",
-    "priceJpy": 4169.7,
+    "priceJpy": 4169.69696969697,
     "target": [],
     "genre": [
       "雑貨"
@@ -3399,6 +3602,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3408,7 +3612,7 @@ const products = [
     ],
     "shop": "duy tan",
     "priceVnd": "774,000VND",
-    "priceJpy": 4690.91,
+    "priceJpy": 4690.909090909091,
     "target": [],
     "genre": [
       "雑貨"
@@ -3416,7 +3620,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3426,7 +3631,7 @@ const products = [
     ],
     "shop": "chi chi",
     "priceVnd": "1,110,000VND",
-    "priceJpy": 6727.27,
+    "priceJpy": 6727.272727272727,
     "target": [],
     "genre": [
       "アパレル"
@@ -3434,7 +3639,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3444,7 +3650,7 @@ const products = [
     ],
     "shop": "chi chi",
     "priceVnd": "1,087,800VND",
-    "priceJpy": 6592.73,
+    "priceJpy": 6592.727272727273,
     "target": [],
     "genre": [
       "アパレル"
@@ -3452,7 +3658,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/アパレル.jpg",
+    "priceSuffix": "",
     "source": "雑誌るるぶ情報版"
   },
   {
@@ -3462,7 +3669,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "55,000VND",
-    "priceJpy": 333.33,
+    "priceJpy": 333.3333333333333,
     "target": [],
     "genre": [
       "飲み物"
@@ -3470,7 +3677,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "地球の歩き方ベトナム’26"
   },
   {
@@ -3480,7 +3688,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "12,000VND",
-    "priceJpy": 72.73,
+    "priceJpy": 72.72727272727273,
     "target": [],
     "genre": [
       "飲み物"
@@ -3488,7 +3696,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "地球の歩き方ベトナム’26"
   },
   {
@@ -3498,7 +3707,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "19,000VND",
-    "priceJpy": 115.15,
+    "priceJpy": 115.15151515151516,
     "target": [],
     "genre": [
       "飲み物"
@@ -3506,7 +3715,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "地球の歩き方ベトナム’26"
   },
   {
@@ -3516,7 +3726,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "50,000VND",
-    "priceJpy": 303.03,
+    "priceJpy": 303.030303030303,
     "target": [],
     "genre": [
       "飲み物"
@@ -3524,7 +3734,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "地球の歩き方ベトナム’26"
   },
   {
@@ -3534,7 +3745,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "50,000VND",
-    "priceJpy": 303.03,
+    "priceJpy": 303.030303030303,
     "target": [],
     "genre": [
       "飲み物"
@@ -3542,7 +3753,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "地球の歩き方ベトナム’26"
   },
   {
@@ -3552,7 +3764,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "10,000VND",
-    "priceJpy": 60.61,
+    "priceJpy": 60.60606060606061,
     "target": [],
     "genre": [
       "飲み物"
@@ -3560,7 +3772,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "地球の歩き方ベトナム’26"
   },
   {
@@ -3570,7 +3783,7 @@ const products = [
     ],
     "shop": "ngoc huyen",
     "priceVnd": "300,000VND",
-    "priceJpy": 1818.18,
+    "priceJpy": 1818.1818181818182,
     "target": [],
     "genre": [
       "雑貨"
@@ -3579,6 +3792,7 @@ const products = [
     "popularity": 2,
     "isRecommend": true,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "~",
     "source": "https://www.veltra.com/jp/yokka/article/shop-in-hochiminh/"
   },
   {
@@ -3588,7 +3802,7 @@ const products = [
     ],
     "shop": "高島屋",
     "priceVnd": "60,000VND",
-    "priceJpy": 363.64,
+    "priceJpy": 363.6363636363636,
     "target": [],
     "genre": [
       "お菓子"
@@ -3596,7 +3810,27 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "~",
+    "source": "https://www.tnkjapan.com/blog/2023/10/10/recommended-souvenirs-saigon/"
+  },
+  {
+    "name": "インスタント麺のフォー",
+    "area": [
+      "タオディエン地区周辺"
+    ],
+    "shop": "コープマート",
+    "priceVnd": "8,200VND",
+    "priceJpy": 49.696969696969695,
+    "target": [],
+    "genre": [
+      "お菓子以外の食品"
+    ],
+    "isRare": false,
+    "popularity": 2,
+    "isRecommend": false,
+    "img": "images/麺.jpg",
+    "priceSuffix": "~",
     "source": "https://www.tnkjapan.com/blog/2023/10/10/recommended-souvenirs-saigon/"
   },
   {
@@ -3606,7 +3840,7 @@ const products = [
     ],
     "shop": "コープマート",
     "priceVnd": "23,600VND",
-    "priceJpy": 143.03,
+    "priceJpy": 143.03030303030303,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3614,7 +3848,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "https://www.tnkjapan.com/blog/2023/10/10/recommended-souvenirs-saigon/"
   },
   {
@@ -3624,7 +3859,7 @@ const products = [
     ],
     "shop": "コープマート",
     "priceVnd": "13,000VND",
-    "priceJpy": 78.79,
+    "priceJpy": 78.78787878787878,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3632,7 +3867,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "https://www.tnkjapan.com/blog/2023/10/10/recommended-souvenirs-saigon/"
   },
   {
@@ -3642,7 +3878,7 @@ const products = [
     ],
     "shop": "コープマート",
     "priceVnd": "78,000VND",
-    "priceJpy": 472.73,
+    "priceJpy": 472.72727272727275,
     "target": [],
     "genre": [
       "飲み物"
@@ -3650,7 +3886,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "~",
     "source": "https://www.tnkjapan.com/blog/2023/10/10/recommended-souvenirs-saigon/"
   },
   {
@@ -3660,7 +3897,7 @@ const products = [
     ],
     "shop": "コープマート",
     "priceVnd": "30,000VND",
-    "priceJpy": 181.82,
+    "priceJpy": 181.8181818181818,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3668,7 +3905,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "https://www.tnkjapan.com/blog/2023/10/10/recommended-souvenirs-saigon/"
   },
   {
@@ -3686,7 +3924,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "~",
     "source": "https://www.veltra.com/jp/yokka/article/shop-in-hochiminh/"
   },
   {
@@ -3696,7 +3935,7 @@ const products = [
     ],
     "shop": "kito",
     "priceVnd": "150,000VND",
-    "priceJpy": 909.09,
+    "priceJpy": 909.0909090909091,
     "target": [],
     "genre": [
       "食器"
@@ -3704,7 +3943,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "~",
     "source": "https://www.veltra.com/jp/yokka/article/shop-in-hochiminh/"
   },
   {
@@ -3714,7 +3954,7 @@ const products = [
     ],
     "shop": "kito",
     "priceVnd": "250,000VND",
-    "priceJpy": 1515.15,
+    "priceJpy": 1515.1515151515152,
     "target": [],
     "genre": [
       "雑貨"
@@ -3722,7 +3962,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": true,
-    "img": "",
+    "img": "images/ハンカチ.jpg",
+    "priceSuffix": "~",
     "source": "https://www.veltra.com/jp/yokka/article/shop-in-hochiminh/"
   },
   {
@@ -3732,7 +3973,7 @@ const products = [
     ],
     "shop": "star kithen、コンビニ、お土産ショップ、空港",
     "priceVnd": "100,000VND",
-    "priceJpy": 606.06,
+    "priceJpy": 606.060606060606,
     "target": [],
     "genre": [
       "お菓子"
@@ -3740,7 +3981,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "https://www.starkitchen-vietnam-gift.com/post/ho-chi-minh-souvenirs?srsltid=AfmBOorOmJQnhVeyS3fYaHw-6bmZTPpIzMROZ0HlSIfjQgYtlt3U_QiG"
   },
   {
@@ -3750,7 +3992,7 @@ const products = [
     ],
     "shop": "marou",
     "priceVnd": "90,000VND",
-    "priceJpy": 545.45,
+    "priceJpy": 545.4545454545455,
     "target": [],
     "genre": [
       "お菓子"
@@ -3758,7 +4000,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "~",
     "source": "https://www.starkitchen-vietnam-gift.com/post/ho-chi-minh-souvenirs?srsltid=AfmBOorOmJQnhVeyS3fYaHw-6bmZTPpIzMROZ0HlSIfjQgYtlt3U_QiG"
   },
   {
@@ -3768,7 +4011,7 @@ const products = [
     ],
     "shop": "trung nguyen legend",
     "priceVnd": "35,000VND",
-    "priceJpy": 212.12,
+    "priceJpy": 212.12121212121212,
     "target": [],
     "genre": [
       "飲み物"
@@ -3776,7 +4019,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "~",
     "source": "https://www.starkitchen-vietnam-gift.com/post/ho-chi-minh-souvenirs?srsltid=AfmBOorOmJQnhVeyS3fYaHw-6bmZTPpIzMROZ0HlSIfjQgYtlt3U_QiG"
   },
   {
@@ -3785,8 +4029,8 @@ const products = [
       "どこでも"
     ],
     "shop": "スーパーなど",
-    "priceVnd": "26,900VND",
-    "priceJpy": 163.03,
+    "priceVnd": "100,000VND",
+    "priceJpy": 606.060606060606,
     "target": [],
     "genre": [
       "飲み物"
@@ -3794,7 +4038,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "~",
     "source": "https://www.starkitchen-vietnam-gift.com/post/ho-chi-minh-souvenirs?srsltid=AfmBOorOmJQnhVeyS3fYaHw-6bmZTPpIzMROZ0HlSIfjQgYtlt3U_QiG"
   },
   {
@@ -3804,7 +4049,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "111,000VND",
-    "priceJpy": 672.73,
+    "priceJpy": 672.7272727272727,
     "target": [],
     "genre": [
       "飲み物"
@@ -3812,7 +4057,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "~",
     "source": "https://www.starkitchen-vietnam-gift.com/post/ho-chi-minh-souvenirs?srsltid=AfmBOorOmJQnhVeyS3fYaHw-6bmZTPpIzMROZ0HlSIfjQgYtlt3U_QiG"
   },
   {
@@ -3822,7 +4068,7 @@ const products = [
     ],
     "shop": "naunau",
     "priceVnd": "350,000VND",
-    "priceJpy": 2121.21,
+    "priceJpy": 2121.212121212121,
     "target": [],
     "genre": [
       "その他"
@@ -3830,7 +4076,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "https://www.starkitchen-vietnam-gift.com/post/ho-chi-minh-souvenirs?srsltid=AfmBOorOmJQnhVeyS3fYaHw-6bmZTPpIzMROZ0HlSIfjQgYtlt3U_QiG"
   },
   {
@@ -3840,7 +4087,7 @@ const products = [
     ],
     "shop": "cong café",
     "priceVnd": "30,000VND",
-    "priceJpy": 181.82,
+    "priceJpy": 181.8181818181818,
     "target": [],
     "genre": [
       "飲み物"
@@ -3848,7 +4095,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "~",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -3858,7 +4106,7 @@ const products = [
     ],
     "shop": "la viet coffee",
     "priceVnd": "135,000VND",
-    "priceJpy": 818.18,
+    "priceJpy": 818.1818181818181,
     "target": [],
     "genre": [
       "飲み物"
@@ -3866,7 +4114,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/コーヒー.jpg",
+    "priceSuffix": "~",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -3876,7 +4125,7 @@ const products = [
     ],
     "shop": "beer hanoi",
     "priceVnd": "12,200VND",
-    "priceJpy": 73.94,
+    "priceJpy": 73.93939393939394,
     "target": [],
     "genre": [
       "飲み物"
@@ -3884,7 +4133,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ビール.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -3902,7 +4152,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/麺.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -3912,7 +4163,7 @@ const products = [
     ],
     "shop": "omachi",
     "priceVnd": "8,000VND",
-    "priceJpy": 48.48,
+    "priceJpy": 48.484848484848484,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3920,7 +4171,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/麺.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -3930,7 +4182,7 @@ const products = [
     ],
     "shop": "acecook vietnam",
     "priceVnd": "8,200VND",
-    "priceJpy": 49.7,
+    "priceJpy": 49.696969696969695,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3938,7 +4190,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/麺.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -3948,7 +4201,7 @@ const products = [
     ],
     "shop": "miliket",
     "priceVnd": "5,400VND",
-    "priceJpy": 32.73,
+    "priceJpy": 32.72727272727273,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3956,7 +4209,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/麺.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -3966,7 +4220,7 @@ const products = [
     ],
     "shop": "hao hao",
     "priceVnd": "4,500VND",
-    "priceJpy": 27.27,
+    "priceJpy": 27.272727272727273,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -3974,7 +4228,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/麺.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -3984,7 +4239,7 @@ const products = [
     ],
     "shop": "",
     "priceVnd": "60,000VND",
-    "priceJpy": 363.64,
+    "priceJpy": 363.6363636363636,
     "target": [],
     "genre": [
       "お菓子"
@@ -3992,7 +4247,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": ""
   },
   {
@@ -4002,7 +4258,7 @@ const products = [
     ],
     "shop": "",
     "priceVnd": "40,000VND",
-    "priceJpy": 242.42,
+    "priceJpy": 242.42424242424244,
     "target": [],
     "genre": [
       "お菓子"
@@ -4010,7 +4266,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -4018,9 +4275,9 @@ const products = [
     "area": [
       "1区"
     ],
-    "shop": "le fruit",
+    "shop": " le fruit",
     "priceVnd": "13,000VND",
-    "priceJpy": 78.79,
+    "priceJpy": 78.78787878787878,
     "target": [],
     "genre": [
       "お菓子以外の食品"
@@ -4028,7 +4285,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/調味料.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -4038,7 +4296,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "20,000VND",
-    "priceJpy": 121.21,
+    "priceJpy": 121.21212121212122,
     "target": [],
     "genre": [
       "お菓子"
@@ -4046,7 +4304,8 @@ const products = [
     "isRare": true,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -4056,7 +4315,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "25,000VND",
-    "priceJpy": 151.52,
+    "priceJpy": 151.5151515151515,
     "target": [],
     "genre": [
       "お菓子"
@@ -4064,17 +4323,18 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
-    "name": "thai binh",
+    "name": "thai binhの",
     "area": [
       "どこでも"
     ],
     "shop": "スーパーなど",
     "priceVnd": "25,000VND",
-    "priceJpy": 151.52,
+    "priceJpy": 151.5151515151515,
     "target": [],
     "genre": [
       "お菓子"
@@ -4082,7 +4342,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -4092,7 +4353,7 @@ const products = [
     ],
     "shop": "vinamit",
     "priceVnd": "50,000VND",
-    "priceJpy": 303.03,
+    "priceJpy": 303.030303030303,
     "target": [],
     "genre": [
       "お菓子"
@@ -4100,7 +4361,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/doraihuru-tu.jpg",
+    "priceSuffix": "~",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -4110,7 +4372,7 @@ const products = [
     ],
     "shop": "l'angfarm",
     "priceVnd": "32,000VND",
-    "priceJpy": 193.94,
+    "priceJpy": 193.93939393939394,
     "target": [],
     "genre": [
       "お菓子"
@@ -4118,7 +4380,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/doraihuru-tu.jpg",
+    "priceSuffix": "~",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -4128,7 +4391,7 @@ const products = [
     ],
     "shop": "無印良品",
     "priceVnd": "79,000VND",
-    "priceJpy": 478.79,
+    "priceJpy": 478.7878787878788,
     "target": [],
     "genre": [
       "雑貨"
@@ -4136,7 +4399,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/to-to-bag.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -4154,7 +4418,8 @@ const products = [
     "isRare": false,
     "popularity": 2,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "https://www.kkday.com/ja/blog/21730/asia-vietnam-must-buy?srsltid=AfmBOoqdk7bofAov13D6RYgepzJJyCheauxToqqB9jNQVXdZr8WSK5PR"
   },
   {
@@ -4164,7 +4429,7 @@ const products = [
     ],
     "shop": "alluvia",
     "priceVnd": "68,000VND",
-    "priceJpy": 412.12,
+    "priceJpy": 412.1212121212121,
     "target": [],
     "genre": [
       "お菓子"
@@ -4172,7 +4437,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "~",
     "source": "1"
   },
   {
@@ -4182,7 +4448,7 @@ const products = [
     ],
     "shop": "alluvia",
     "priceVnd": "235,000VND",
-    "priceJpy": 1424.24,
+    "priceJpy": 1424.2424242424242,
     "target": [],
     "genre": [
       "お菓子"
@@ -4190,7 +4456,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "~",
     "source": "1"
   },
   {
@@ -4200,7 +4467,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "140,000VND",
-    "priceJpy": 848.48,
+    "priceJpy": 848.4848484848485,
     "target": [],
     "genre": [
       "飲み物"
@@ -4208,7 +4475,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コースター.jpg",
+    "priceSuffix": "",
     "source": "1"
   },
   {
@@ -4218,7 +4486,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "75,000VND",
-    "priceJpy": 454.55,
+    "priceJpy": 454.54545454545456,
     "target": [],
     "genre": [
       "その他"
@@ -4227,6 +4495,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "",
+    "priceSuffix": "",
     "source": "1"
   },
   {
@@ -4236,7 +4505,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "16,000VND",
-    "priceJpy": 96.97,
+    "priceJpy": 96.96969696969697,
     "target": [],
     "genre": [
       "お菓子"
@@ -4244,7 +4513,8 @@ const products = [
     "isRare": false,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "2"
   },
   {
@@ -4254,7 +4524,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "63,000VND",
-    "priceJpy": 381.82,
+    "priceJpy": 381.8181818181818,
     "target": [],
     "genre": [
       "お菓子"
@@ -4262,7 +4532,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "2"
   },
   {
@@ -4272,7 +4543,7 @@ const products = [
     ],
     "shop": "スーパーなど",
     "priceVnd": "25,000VND",
-    "priceJpy": 151.52,
+    "priceJpy": 151.5151515151515,
     "target": [],
     "genre": [
       "お菓子"
@@ -4280,7 +4551,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": true,
-    "img": "",
+    "img": "images/おかし.jpg",
+    "priceSuffix": "",
     "source": "4"
   },
   {
@@ -4290,7 +4562,7 @@ const products = [
     ],
     "shop": "ユニクロ",
     "priceVnd": "249,000VND",
-    "priceJpy": 1509.09,
+    "priceJpy": 1509.090909090909,
     "target": [],
     "genre": [
       "アパレル"
@@ -4298,7 +4570,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/to-to-bag.jpg",
+    "priceSuffix": "~",
     "source": "5"
   },
   {
@@ -4308,7 +4581,7 @@ const products = [
     ],
     "shop": "スターバックス各店",
     "priceVnd": "220,000VND",
-    "priceJpy": 1333.33,
+    "priceJpy": 1333.3333333333333,
     "target": [],
     "genre": [
       "食器"
@@ -4316,7 +4589,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ティー.jpg",
+    "priceSuffix": "~",
     "source": "5"
   },
   {
@@ -4326,7 +4600,7 @@ const products = [
     ],
     "shop": "diabolo square",
     "priceVnd": "200,000VND",
-    "priceJpy": 1212.12,
+    "priceJpy": 1212.121212121212,
     "target": [],
     "genre": [
       "雑貨"
@@ -4334,7 +4608,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "~",
     "source": "6"
   },
   {
@@ -4344,7 +4619,7 @@ const products = [
     ],
     "shop": "lam décor",
     "priceVnd": "20,000VND",
-    "priceJpy": 121.21,
+    "priceJpy": 121.21212121212122,
     "target": [],
     "genre": [
       "雑貨"
@@ -4352,7 +4627,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "~",
     "source": "6"
   },
   {
@@ -4362,7 +4638,7 @@ const products = [
     ],
     "shop": "kokonic",
     "priceVnd": "100,000VND",
-    "priceJpy": 606.06,
+    "priceJpy": 606.060606060606,
     "target": [],
     "genre": [
       "雑貨"
@@ -4370,7 +4646,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": true,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "~",
     "source": "6"
   },
   {
@@ -4380,7 +4657,7 @@ const products = [
     ],
     "shop": "xuan thi handmade crafts",
     "priceVnd": "200,000VND",
-    "priceJpy": 1212.12,
+    "priceJpy": 1212.121212121212,
     "target": [],
     "genre": [
       "雑貨"
@@ -4389,6 +4666,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "~",
     "source": "7"
   },
   {
@@ -4398,7 +4676,7 @@ const products = [
     ],
     "shop": "hansryvn",
     "priceVnd": "500,000VND",
-    "priceJpy": 3030.3,
+    "priceJpy": 3030.3030303030305,
     "target": [],
     "genre": [
       "雑貨"
@@ -4407,6 +4685,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "~",
     "source": "7"
   },
   {
@@ -4416,7 +4695,7 @@ const products = [
     ],
     "shop": "linh's furniture",
     "priceVnd": "350,000VND",
-    "priceJpy": 2121.21,
+    "priceJpy": 2121.212121212121,
     "target": [],
     "genre": [
       "雑貨"
@@ -4425,6 +4704,7 @@ const products = [
     "popularity": 1,
     "isRecommend": false,
     "img": "images/kago-bag.jpg",
+    "priceSuffix": "~",
     "source": "7"
   },
   {
@@ -4434,7 +4714,7 @@ const products = [
     ],
     "shop": "hallelu chocolate",
     "priceVnd": "50,000VND",
-    "priceJpy": 303.03,
+    "priceJpy": 303.030303030303,
     "target": [],
     "genre": [
       "その他"
@@ -4442,7 +4722,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/コスメ.jpg",
+    "priceSuffix": "",
     "source": "8"
   },
   {
@@ -4452,7 +4733,7 @@ const products = [
     ],
     "shop": "jalmos",
     "priceVnd": "341,000VND",
-    "priceJpy": 2066.67,
+    "priceJpy": 2066.6666666666665,
     "target": [],
     "genre": [
       "雑貨"
@@ -4460,7 +4741,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": true,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "~",
     "source": "8"
   },
   {
@@ -4470,7 +4752,7 @@ const products = [
     ],
     "shop": "L'Usine Thao Dien",
     "priceVnd": "200,000VND",
-    "priceJpy": 1212.12,
+    "priceJpy": 1212.121212121212,
     "target": [],
     "genre": [
       "雑貨"
@@ -4478,7 +4760,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "~",
     "source": "8"
   },
   {
@@ -4488,7 +4771,7 @@ const products = [
     ],
     "shop": "Nabby's market",
     "priceVnd": "50,000VND",
-    "priceJpy": 303.03,
+    "priceJpy": 303.030303030303,
     "target": [],
     "genre": [
       "雑貨"
@@ -4496,7 +4779,8 @@ const products = [
     "isRare": true,
     "popularity": 1,
     "isRecommend": false,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "~",
     "source": "8"
   },
   {
@@ -4506,7 +4790,7 @@ const products = [
     ],
     "shop": "in the mood saigon",
     "priceVnd": "95,000VND",
-    "priceJpy": 575.76,
+    "priceJpy": 575.7575757575758,
     "target": [],
     "genre": [
       "雑貨"
@@ -4514,7 +4798,8 @@ const products = [
     "isRare": true,
     "popularity": 3,
     "isRecommend": true,
-    "img": "",
+    "img": "images/ポーチ.jpg",
+    "priceSuffix": "~",
     "source": "8"
   },
   {
@@ -4524,7 +4809,7 @@ const products = [
     ],
     "shop": "grade b",
     "priceVnd": "70,000VND",
-    "priceJpy": 424.24,
+    "priceJpy": 424.24242424242425,
     "target": [],
     "genre": [
       "食器"
@@ -4532,7 +4817,8 @@ const products = [
     "isRare": false,
     "popularity": 1,
     "isRecommend": true,
-    "img": "",
+    "img": "images/食器.jpg",
+    "priceSuffix": "~",
     "source": "8"
   }
 ];
